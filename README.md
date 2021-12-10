@@ -8,7 +8,7 @@ This bot may collect **END USER DATA** as part of its message logging or other f
 
 By using this bot **in any way**, whether this be by using the code for a bot user or being in a server that this bot is in, **you agree to this and allow the bot to do so**. If you do not agree to this, either do not use the bot code, or if you are in a server that the bot is in, you may _leave_ the server to ensure that the bot does not collect your **END USER DATA**.
 
- that this list may not be complete. If marked with a asterisk_ (`*`) _these logs can be disabled)_
+ that this list may not be complet
 
 
 
