@@ -1,6 +1,6 @@
 # Privacy Policy
 
-## Ebony
+
 
 This bot may collect **END USER DATA** as part of its message logging or other features.
 
